@@ -1,4 +1,4 @@
-# Darlyn Cabral  
+# Darlyn Brito  
 ### Software & Business Solutions Developer
 
 Desarrollador enfocado en la creación de **sistemas empresariales, automatización de procesos y soluciones digitales a medida**.  
