@@ -33,19 +33,6 @@ No solo escribo código, diseño sistemas que optimizan empresas.
 
 ---
 
-## 📂 Proyectos Destacados
-
-### ✈️ AgenciaViajeHub  
-Sistema para gestión de clientes, planes de pago e itinerarios para agencia de viajes.
-
-### 🧾 DGIIManageCertification  
-Plataforma para procesos de certificación y facturación electrónica con generación de XML e integración fiscal.
-
-### 🛒 ProyectoCarritodeCompra  
-Interfaz interactiva tipo e-commerce con lógica dinámica en JavaScript.
-
----
-
 ## 🎯 Enfoque Actual
 
 <p>
@@ -57,7 +44,7 @@ Sistemas empresariales • Automatización • Integraciones • Plataformas Saa
 ## 📫 Contacto
 
 <p>
-📧 tuemail@ejemplo.com  
+📧 dbjohe@gmail.com 
 💼 https://linkedin.com/in/tuusuario
 </p>
 
