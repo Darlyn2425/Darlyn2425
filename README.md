@@ -12,7 +12,7 @@ No solo escribo código, diseño sistemas que optimizan empresas.
 - Sistemas de gestión empresarial  
 - Automatización de procesos administrativos  
 - Integraciones entre plataformas  
-- CRM personalizados  
+- CRM  
 - Facturación Electrónica (DGII)  
 - Plataformas para gestión de clientes y servicios  
 
