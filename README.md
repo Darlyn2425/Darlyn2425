@@ -3,7 +3,7 @@
 💡 Desarrollador especializado en **sistemas empresariales, automatización de procesos y plataformas web**.  
 Construyo soluciones reales para negocios: **CRM, facturación electrónica, integraciones y aplicaciones SaaS**.
 
-> No solo escribo código, diseño sistemas que optimizan empresas.
+No solo escribo código, diseño sistemas que optimizan empresas.
 
 ---
 
