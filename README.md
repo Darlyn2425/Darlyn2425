@@ -7,17 +7,6 @@ Construyo soluciones reales para negocios: **CRM, facturación electrónica, int
 
 ---
 
-<p>
-Desarrollador enfocado en la creación de <b>sistemas empresariales, automatización de procesos y soluciones digitales</b>.<br>
-Conecto tecnología con necesidades reales de negocio: CRM, facturación electrónica, integraciones y plataformas web.
-</p>
-
-<p>
-<i>Diseño sistemas que ayudan a las empresas a trabajar mejor, más rápido y con más control.</i>
-</p>
-
----
-
 ## 🚀 Especialidades
 
 - Sistemas de gestión empresarial  
