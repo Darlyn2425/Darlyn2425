@@ -1,12 +1,18 @@
-<h1 align="center">🚀 Darlyn Brito</h1>
-<h3 align="center">Software & Business Solutions Developer</h3>
+# 🚀 Darlyn Cabral | Software & Business Solutions Developer
 
-<p align="center">
+💡 Desarrollador especializado en **sistemas empresariales, automatización de procesos y plataformas web**.  
+Construyo soluciones reales para negocios: **CRM, facturación electrónica, integraciones y aplicaciones SaaS**.
+
+> No solo escribo código, diseño sistemas que optimizan empresas.
+
+---
+
+<p>
 Desarrollador enfocado en la creación de <b>sistemas empresariales, automatización de procesos y soluciones digitales</b>.<br>
 Conecto tecnología con necesidades reales de negocio: CRM, facturación electrónica, integraciones y plataformas web.
 </p>
 
-<p align="center">
+<p>
 <i>Diseño sistemas que ayudan a las empresas a trabajar mejor, más rápido y con más control.</i>
 </p>
 
