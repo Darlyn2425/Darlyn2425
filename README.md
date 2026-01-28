@@ -41,14 +41,14 @@ Sistema para gestión de clientes, planes de pago e itinerarios para agencia de 
 ### 🧾 DGIIManageCertification  
 Plataforma para procesos de certificación y facturación electrónica con generación de XML e integración fiscal.
 
-### 🛒 Proyecto-Carrito-de-Compra  
+### 🛒 ProyectoCarritodeCompra  
 Interfaz interactiva tipo e-commerce con lógica dinámica en JavaScript.
 
 ---
 
 ## 🎯 Enfoque Actual
 
-<p align="center">
+<p>
 Sistemas empresariales • Automatización • Integraciones • Plataformas SaaS
 </p>
 
@@ -56,13 +56,13 @@ Sistemas empresariales • Automatización • Integraciones • Plataformas Saa
 
 ## 📫 Contacto
 
-<p align="center">
+<p>
 📧 tuemail@ejemplo.com  
 💼 https://linkedin.com/in/tuusuario
 </p>
 
 ---
 
-<p align="center">
+<p>
 <b>"La tecnología no es el fin, es la herramienta para que las empresas funcionen mejor."</b>
 </p>
