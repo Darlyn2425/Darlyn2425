@@ -26,8 +26,11 @@ No solo escribo código, diseño sistemas que optimizan empresas.
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Deluge](https://img.shields.io/badge/Deluge-Zoho-red?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+![Visual%20Basic](https://img.shields.io/badge/Visual%20Basic-blue?style=for-the-badge&logo=dotnet)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Zoho%20Integration](https://img.shields.io/badge/Zoho%20Integration-green?style=for-the-badge&logo=zoho)
 
 </p>
 
