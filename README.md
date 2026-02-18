@@ -30,7 +30,6 @@ No solo escribo código, diseño sistemas que optimizan empresas.
 ![Visual%20Basic](https://img.shields.io/badge/Visual%20Basic-blue?style=for-the-badge&logo=dotnet)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Zoho%20Integration](https://img.shields.io/badge/Zoho%20Integration-green?style=for-the-badge&logo=zoho)
 
 </p>
 
