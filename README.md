@@ -46,8 +46,9 @@ Sistemas empresariales • Automatización • Integraciones • Plataformas Saa
 ## 📫 Contacto
 
 <p>
-📧 dbjohe@gmail.com 
-💼 https://linkedin.com/in/tuusuario
+📧 Email: <a href="mailto:dbjohe@gmail.com">dbjohe@gmail.com</a><br>
+💼 LinkedIn: <a href="[https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/darlyn-brito-582143211/)" target="_blank">linkedin.com/in/tuusuario</a><br>
+🌐 Especialista en automatización, Zoho y facturación electrónica
 </p>
 
 ---
